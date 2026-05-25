@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>Sequoia Retro-Light</string>
+  <key>settings</key>
+  <array>
+    <dict><key>settings</key><dict><key>background</key><string>#edeef2</string><key>foreground</key><string>#282930</string><key>caret</key><string>#456a82</string><key>selection</key><string>#817c9c38</string></dict></dict>
+    <dict><key>scope</key><string>comment</string><key>settings</key><dict><key>foreground</key><string>#565760</string><key>fontStyle</key><string>italic</string></dict></dict>
+    <dict><key>scope</key><string>keyword</string><key>settings</key><dict><key>foreground</key><string>#4a704e</string></dict></dict>
+    <dict><key>scope</key><string>string</string><key>settings</key><dict><key>foreground</key><string>#bf5238</string></dict></dict>
+    <dict><key>scope</key><string>entity.name.function</string><key>settings</key><dict><key>foreground</key><string>#5f7982</string><key>fontStyle</key><string>italic</string></dict></dict>
+    <dict><key>scope</key><string>variable</string><key>settings</key><dict><key>foreground</key><string>#8a6539</string><key>fontStyle</key><string>italic</string></dict></dict>
+    <dict><key>scope</key><string>entity.name.type</string><key>settings</key><dict><key>foreground</key><string>#456a82</string></dict></dict>
+    <dict><key>scope</key><string>constant</string><key>settings</key><dict><key>foreground</key><string>#4a704e</string></dict></dict>
+    <dict><key>scope</key><string>invalid</string><key>settings</key><dict><key>foreground</key><string>#5f7982</string></dict></dict>
+  </array>
+</dict>
+</plist>
