@@ -17,9 +17,9 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Installation
 
-Copy `.tmTheme` files to Sublime `Packages/User/` and pick **Preferences → Color Scheme**.
+Install via Package Control, or copy the `.sublime-color-scheme` files into Sublime `Packages/User/`. Then pick **Preferences → Color Scheme**.
 
-Available files: `sequoia-moonlight-dark.tmTheme`, `sequoia-moonlight-light.tmTheme`, `sequoia-monochrome-dark.tmTheme`, `sequoia-monochrome-light.tmTheme`, `sequoia-retro-dark.tmTheme`, `sequoia-retro-light.tmTheme`.
+Available files: `sequoia-moonlight-dark.sublime-color-scheme`, `sequoia-moonlight-light.sublime-color-scheme`, `sequoia-monochrome-dark.sublime-color-scheme`, `sequoia-monochrome-light.sublime-color-scheme`, `sequoia-retro-dark.sublime-color-scheme`, `sequoia-retro-light.sublime-color-scheme`.
 
 ## Created by
 
