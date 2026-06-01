@@ -6,7 +6,7 @@ Elegant, minimal, and clean color palette for your tools.
 
 See other interfaces at the [official website](https://www.michaelandreuzza.com/vscode/sequoia/).
 
-## Available themes
+## Available color schemes
 
 - **Moonlight Dark** — dark
 - **Moonlight Light** — light
